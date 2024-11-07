@@ -12,9 +12,9 @@ Voici comment faire un changement sur ce projet, et l’envoyer sur GitHub.
 
  **Contributeurs**
 
- -[Jérémy Simms](https://github.com/Miambirb)- Auteur Principal
+- [Jérémy Simms](https://github.com/Miambirb)- Auteur Principal
 
 
  **Licence**
- 
+
  Copyright @ 2023 Votre Nom. Tous droits réservés.

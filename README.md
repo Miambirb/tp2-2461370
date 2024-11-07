@@ -5,11 +5,9 @@ Voici comment faire un changement sur ce projet, et l’envoyer sur GitHub.
 1. Example de premier commit
 2. Example de main GitHub 
 3. Example de resultat de code
-4. Texte de l’étape 4
- ![](docs/screenshot1.png)
-![](docs/screenshot2.png)
-![](docs/screenshot3.png)
-
+![](.docs/screenshot1.png)
+![](.docs/screenshot2.png)
+![](.docs/screenshot3.png)
  **Contributeurs**
  -[Jérémy Simms](https://github.com/Miambirb)[- Auteur Principal]
  **Licence**
